@@ -20,10 +20,13 @@ author: Kumar Akash
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  CV: "assets/pdf/Kumar_Akash_CV.pdf"
-  Publications: "https://scholar.google.com/citations?user=03uSPzAAAAAJ&hl=en&oi=ao"
-  LinkedIn: "https://www.linkedin.com/in/kumar-akash"
+  Home: ""
+  About: "about"
+  CV: "cv"
+  Publications: "publications"
+  Patents: "patents"
+  Talks: "talks"
+  Contact: "contact"
 
 ################
 # --- Logo --- #

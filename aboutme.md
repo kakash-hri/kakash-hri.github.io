@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About Me
-subtitle: 
+title: About
+permalink: /about
 ---
 
-I am a researcher with a passion for computational fluid dynamics, machine learning, and high-performance computing. I hold a Ph.D. from the University of Illinois at Urbana-Champaign.
+I'm a Principal Scientist at Honda Research Institute USA. I build human-aware systems by combining human factors,
+signal processing, and machine learning. My recent work includes computational models of well-being and trust in mobility
+and attention-based approaches for driver trust prediction.
 
-My work focuses on developing and applying advanced computational methods to solve complex engineering problems. I have experience in both academic and industrial research environments, including my time at Siemens.
-
-This website serves as a central hub for my professional activities, including my publications and other relevant information.
