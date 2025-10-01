@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a researcher with a passion for computational fluid dynamics, machine learning, and high-performance computing. I hold a Ph.D. from the University of Illinois at Urbana-Champaign.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My work focuses on developing and applying advanced computational methods to solve complex engineering problems. I have experience in both academic and industrial research environments, including my time at Siemens.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+This website serves as a central hub for my professional activities, including my publications and other relevant information.
