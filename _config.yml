@@ -21,12 +21,8 @@ author: Kumar Akash
 
 navbar-links:
   Home: ""
-  About: "about"
-  CV: "cv"
   Publications: "publications"
   Patents: "patents"
-  Talks: "talks"
-  Contact: "contact"
 
 ################
 # --- Logo --- #

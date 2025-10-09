@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Kumar Akash
 subtitle: Principal Scientist · Honda Research Institute USA
 ---
 
@@ -15,5 +15,5 @@ Previously, I completed my Ph.D. from Purdue University, where my research cente
 Overall, I am driven by the question of how we can design computational models that not only capture human cognition but also enable machines to reason with it, fostering a more natural, reliable, and intelligent collaboration between humans and technology.
 
 - **Research interests:** Human-AI Collaboration, Cognitive and Trust Modeling, Quantum Cognition, Human-in-the-Loop Autonomy, Multimodal Machine Learning, Human Factors in Intelligent Systems
-- **Links:** [Google Scholar](https://scholar.google.com/citations?user=03uSPzAAAAAJ), [LinkedIn](https://www.linkedin.com/in/kumar-akash), [CV](/cv)
+
 
