@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Publications | Kumar Akash</title>
+    <meta name="description" content="Search and browse Kumar Akash's publications by year and research project, from human-aware AI and Human-AI Teaming to trust calibration and adaptive mobility.">
+    <meta name="theme-color" content="#f4f0e7">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://kakash-hri.github.io/publications.html">
+    <meta property="og:title" content="Publications | Kumar Akash">
+    <meta property="og:description" content="A searchable research archive spanning 2014–2026.">
+    <meta property="og:image" content="https://kakash-hri.github.io/assets/img/og-research-card.png">
+    <meta property="og:image:alt" content="Kumar Akash - Human-AI Collaboration Research">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="icon" href="/assets/img/avatar-icon.png">
+    <link rel="stylesheet" href="/assets/css/research-site.css">
+    <script defer src="/assets/data/publications-data.js"></script>
+    <script defer src="/assets/js/research-site.js"></script>
+    <script defer src="/assets/js/publications.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="container nav-shell">
+        <a class="brand" href="/" aria-label="Kumar Akash home">
+          <span class="brand-mark" aria-hidden="true">KA</span>
+          <span>Kumar Akash</span>
+        </a>
+        <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false"><span aria-hidden="true"></span></button>
+        <nav class="site-nav" aria-label="Primary navigation">
+          <a href="/">Home</a>
+          <a href="/research.html">Research</a>
+          <a href="/publications.html" aria-current="page">Publications</a>
+          <a href="/patents.html">Patents</a>
+          <a class="nav-cv" href="/resume.html">Résumé</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="page-hero">
+        <div class="container page-hero-grid">
+          <div>
+            <p class="eyebrow">Publications</p>
+            <h1 class="page-title">Ideas, tested over <em style="color:var(--coral-dark);font-weight:500">time.</em></h1>
+          </div>
+          <div class="page-hero-copy">
+            <p>Browse publications by year or research project, from foundational work in trust modeling to current Human-AI Teaming research.</p>
+            <div class="button-row">
+              <a class="button button-primary" href="https://scholar.google.com/citations?user=03uSPzAAAAAJ">Google Scholar ↗</a>
+              <a class="button button-secondary" href="/resume.html">View résumé</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="stat-band" aria-label="Publication summary">
+        <div class="container stats">
+          <div class="stat"><strong>64</strong><span>publications</span></div>
+          <div class="stat"><strong>7</strong><span>papers in 2026</span></div>
+          <div class="stat"><strong>12</strong><span>publication years</span></div>
+          <div class="stat"><strong>5</strong><span>connected projects</span></div>
+        </div>
+      </section>
+
+      <section class="archive-toolbar" aria-label="Publication filters">
+        <div class="container">
+          <div class="search-row">
+            <label class="search-box">
+              <span style="position:absolute;clip:rect(0 0 0 0)">Search publications</span>
+              <input id="publication-search" type="search" placeholder="Search a title or phrase…" autocomplete="off">
+            </label>
+            <label>
+              <span style="position:absolute;clip:rect(0 0 0 0)">Filter by research project</span>
+              <select class="filter-select" id="project-filter">
+                <option value="">All research projects</option>
+                <option value="human-ai">Human-AI Teaming</option>
+                <option value="prosocial">Prosocial intelligence</option>
+                <option value="mobility">Adaptive mobility</option>
+                <option value="driver-state">Driver state</option>
+                <option value="trust">Trust dynamics</option>
+                <option value="interactive-ml">Interactive ML</option>
+                <option value="foundations">Systems foundations</option>
+              </select>
+            </label>
+            <label>
+              <span style="position:absolute;clip:rect(0 0 0 0)">Filter by year</span>
+              <select class="filter-select" id="year-filter">
+                <option value="">All years</option>
+              </select>
+            </label>
+          </div>
+          <div class="scope-row" aria-label="Filter by time period">
+            <button class="scope-button is-active" type="button" data-scope="all" aria-pressed="true">All work</button>
+            <button class="scope-button" type="button" data-scope="current" aria-pressed="false">Current project · Human-AI Teaming</button>
+            <button class="scope-button" type="button" data-scope="archive" aria-pressed="false">Earlier projects</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="archive-section">
+        <div class="container">
+          <div class="archive-summary">
+            <span>Showing <strong id="result-count">64 publications</strong></span>
+          </div>
+          <div id="publication-list" aria-live="polite"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container footer-main">
+        <div><p class="eyebrow">Connect</p><h2>Let’s build more human-aware intelligence.</h2></div>
+        <div class="footer-links">
+          <a href="mailto:kakash@honda-ri.com">kakash@honda-ri.com</a>
+          <a href="https://scholar.google.com/citations?user=03uSPzAAAAAJ">Google Scholar ↗</a>
+          <a href="https://www.linkedin.com/in/kumar-akash/">LinkedIn ↗</a>
+        </div>
+      </div>
+      <div class="container footer-bottom">
+        <span>© <span data-year></span> Kumar Akash</span>
+        <span>Principal Scientist · Honda Research Institute USA</span>
+      </div>
+    </footer>
+  </body>
+</html>
