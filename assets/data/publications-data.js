@@ -1,10 +1,10 @@
 window.RESEARCH_PUBLICATIONS = [
-  { year: 2026, title: "Exploring the Impact of Proactive Generative AI Agent Roles in Time-Sensitive Collaborative Problem-Solving Tasks" },
+  { year: 2026, title: "Exploring the Impact of Proactive Generative AI Agent Roles in Time-Sensitive Collaborative Problem-Solving Tasks", url: "https://doi.org/10.1145/3772318.3791592" },
   { year: 2026, title: "How Real-Time Signaling Improves Ad Hoc Collaboration" },
-  { year: 2026, title: "Shared Control in Micro-Mobility: Effects of Rider Skill and Automation Levels on Subjective Well-Being in E-Scooter Use" },
-  { year: 2026, title: "Strategic Shaping of Human Prosociality: A Latent-State POMDP Framework" },
-  { year: 2026, title: "The Ride Report: Investigating the Influence of Post-Ride Feedback on Lasting Prosocial Behavior Change in Mobility" },
-  { year: 2026, title: "Too Many Specialists: Emergent Inefficiencies and Bottlenecks for Multi-Agent Ad-Hoc Collaboration" },
+  { year: 2026, title: "Shared Control in Micro-Mobility: Effects of Rider Skill and Automation Levels on Subjective Well-Being in E-Scooter Use", url: "https://doi.org/10.1080/10447318.2025.2601282" },
+  { year: 2026, title: "Strategic Shaping of Human Prosociality: A Latent-State POMDP Framework", url: "https://doi.org/10.1109/LRA.2026.3668141" },
+  { year: 2026, title: "The Ride Report: Investigating the Influence of Post-Ride Feedback on Lasting Prosocial Behavior Change in Mobility", url: "https://doi.org/10.1080/10447318.2026.2661834" },
+  { year: 2026, title: "Too Many Specialists: Emergent Inefficiencies and Bottlenecks for Multi-Agent Ad-Hoc Collaboration", url: "https://doi.org/10.65109/cyxp1261" },
   { year: 2026, title: "Towards Understanding the Impact of Generative AI Agent Roles in Collaborative Problem-Solving Tasks" },
 
   { year: 2025, title: "Defining Prosocial Behavior in Traffic: Linking Behavior to Perception" },
@@ -32,7 +32,7 @@ window.RESEARCH_PUBLICATIONS = [
   { year: 2023, title: "Learn-Able Evolution Convolutional Siamese Neural Network for Adaptive Driving Style Preference Prediction" },
   { year: 2023, title: "The Future of Mobility-as-a-Service: Trust Transfer across Automated Mobilities, from Road to Sidewalk" },
   { year: 2023, title: "The Impact of Environmental Features on Drivers' Situation Awareness Using Real-World Driving Scenarios" },
-  { year: 2023, title: "Trust in Shared Automated Vehicles: Study on Two Mobility Platforms" },
+  { year: 2023, title: "Trust in Shared Automated Vehicles: Study on Two Mobility Platforms", url: "https://arxiv.org/abs/2303.09711" },
   { year: 2023, title: "Wellbeing in Future Mobility: Toward AV Policy Design to Increase Wellbeing through Interactions" },
   { year: 2023, title: "When Do Drivers Intervene in Autonomous Driving? Contrasting Drivers' Perceived Risk Across Two Mobility Types" },
   { year: 2023, title: "You Cooperate, I Reciprocate: Well-Being and Trust in Automated Vehicles" },
@@ -53,18 +53,18 @@ window.RESEARCH_PUBLICATIONS = [
   { year: 2022, title: "Toward an Adaptive Situational Awareness Support System for Urban Driving" },
 
   { year: 2021, title: "Clustering Human Trust Dynamics for Customized Real-Time Prediction" },
-  { year: 2021, title: "Improving Driver Situation Awareness Prediction Using Human Visual Sensory and Memory Mechanism" },
+  { year: 2021, title: "Improving Driver Situation Awareness Prediction Using Human Visual Sensory and Memory Mechanism", url: "https://arxiv.org/abs/2111.00087" },
   { year: 2021, title: "The Effect of Augmented Reality Cues on Glance Behavior and Driver-Initiated Takeover on SAE Level 2 Automated-Driving" },
 
-  { year: 2020, title: "Human Trust-Based Feedback Control: Dynamically Varying Automation Transparency to Optimize Human-Machine Interactions" },
+  { year: 2020, title: "Human Trust-Based Feedback Control: Dynamically Varying Automation Transparency to Optimize Human-Machine Interactions", url: "https://arxiv.org/abs/2006.16353" },
   { year: 2020, title: "On Modeling Human Trust in Automation: Identifying Distinct Dynamics through Clustering of Markovian Models" },
   { year: 2020, title: "Reimagining Human-Machine Interactions Through Trust-Based Feedback", note: "PhD dissertation" },
-  { year: 2020, title: "Toward Adaptive Trust Calibration for Level 2 Driving Automation" },
+  { year: 2020, title: "Toward Adaptive Trust Calibration for Level 2 Driving Automation", url: "https://arxiv.org/abs/2009.11890" },
 
   { year: 2019, title: "Improving Human-Machine Collaboration Through Transparency-Based Feedback - Part I: Human Trust and Workload Model" },
   { year: 2019, title: "Improving Human-Machine Collaboration Through Transparency-Based Feedback - Part II: Control Design and Synthesis" },
 
-  { year: 2018, title: "A Classification Model for Sensing Human Trust in Machines Using EEG and GSR" },
+  { year: 2018, title: "A Classification Model for Sensing Human Trust in Machines Using EEG and GSR", url: "https://arxiv.org/abs/1803.09861" },
   { year: 2018, title: "Adaptive Probabilistic Classification of Dynamic Processes: A Case Study on Human Trust in Automation" },
   { year: 2018, title: "Computational Modeling of the Dynamics of Human Trust During Human-Machine Interactions" },
 
