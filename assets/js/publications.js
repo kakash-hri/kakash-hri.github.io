@@ -163,7 +163,7 @@
                     ${paper.note ? `<span class="publication-topic">${escapeHtml(paper.note)}</span>` : ""}
                   </div>
                 </div>
-                <a class="publication-link" href="${scholarUrl(paper.title)}" aria-label="Find ${escapeHtml(paper.title)} on Google Scholar" title="Find on Google Scholar">↗</a>
+                <a class="publication-link" href="${paper.url || scholarUrl(paper.title)}" aria-label="Open ${escapeHtml(paper.title)}" title="Open publication">↗</a>
               </article>
             `).join("")}
           </div>
