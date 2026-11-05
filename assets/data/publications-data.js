@@ -1,4 +1,11 @@
 window.RESEARCH_PUBLICATIONS = [
+  { year: 2026, title: "Human-as-a-Sensor: Inferring Individual Engagement from Teammates Alone via Latent Group State Modeling" },
+  { year: 2026, title: "Speaker Diarization in Static and Egocentric Videos via Speech-Face Alignment" },
+  { year: 2026, title: "From Process Loss to Assembly Bonus: Human-Grounded Diagnosis of Multi-Agent LLM Collaboration" },
+  { year: 2026, title: "Experts' and Community Insights on Measuring Comfort and Perceived Safety in Automated Driving: Synthesis of a Participatory Workshop" },
+  { year: 2026, title: "A Hierarchical Latent Cognitive Model for Workload Estimation with Bayesian Inference" },
+  { year: 2026, title: "Adaptive Driving Style for SAE Level-2 Driving Automation: Minimizing Preference Mismatch" },
+  { year: 2026, title: "Fostering Prosocial Behavior Through Observational Learning in Future Hybrid Societies", url: "https://doi.org/10.1177/10711813261475177" },
   { year: 2026, title: "Exploring the Impact of Proactive Generative AI Agent Roles in Time-Sensitive Collaborative Problem-Solving Tasks", url: "https://doi.org/10.1145/3772318.3791592" },
   { year: 2026, title: "How Real-Time Signaling Improves Ad Hoc Collaboration" },
   { year: 2026, title: "Shared Control in Micro-Mobility: Effects of Rider Skill and Automation Levels on Subjective Well-Being in E-Scooter Use", url: "https://doi.org/10.1080/10447318.2025.2601282" },
